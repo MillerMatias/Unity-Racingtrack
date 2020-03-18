@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AE8AD437-7756-A4AC-6A28-FB61F4537DBE}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/code/CameraFollowCar.cs">
+    <Files>
+      <File FileName="Assets/code/CarAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/FollowObject.cs" Line="52" Column="10" />
+      <File FileName="Assets/code/CameraFollowCar.cs" Line="41" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
